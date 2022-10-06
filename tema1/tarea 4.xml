@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Arboles>
+<Arboles>
+<arbol>
+    <tipo>Acer monspessulanum</tipo>
+    <nombre>Arce de montpellier, Arce menor</nombre>
+    <altura>6 a 10 metros</altura>
+    <forma-estructura>Copa esferica. Tronco principal recto con bifurcaciones.Ramaje colgante</forma-estructura>
+    <vegetacion>Caudofilio</vegetacion>
+    <color-primavera>verde brillante</color-primavera>
+    <color-otono></color-otono>
+    <resistencia>heladas fuertes (hasta -15C)</resistencia>
+</arbol>
+<arbol>
+    <tipo>Olea Europea</tipo>
+    <nombre>Olivo</nombre>
+    <vegetacion>Perenne</vegetacion>
+    <altura>De 8 a 15 metros</altura>
+    <color-primavera></color-primavera>
+    <color-otono></color-otono>
+    <vegetacion></vegetacion>
+    <forma-estructura>Copa irregular. Tronco principal irregular con bifurcaciones.</forma-estructura>
+</arbol>
+<arbol>
+    <tipo>ramaje tortuoso</tipo>
+    <color-primavera>Haz verde oscuro, enves verde plateado</color-primavera>
+    <nombre></nombre>
+    <vegetacion></vegetacion>
+    <altura></altura>
+    <forma-estructura></forma-estructura>
+    <color-otono></color-otono>
+    <resistencia>Heladas medias (hasta -10C)</resistencia>
+</arbol>
+<arbol>
+    <tipo>Platanus orientalis</tipo>
+    <nombre>platano</nombre>
+    <vegetacion>Caducifolio</vegetacion>
+    <altura> De 20 a 25 metros</altura>
+    <forma-estructura>Copa ovoidal. Tronco principal recto. Ramaje expandido</forma-estructura>
+    <color-privamera>Haz verde medio, enves verde claro</color-privamera>
+    <color-otono>Ocre</color-otono>
+    <resistencia>Heladas fuertes(hasta -20C)</resistencia>
+</arbol>
+<arbol>
+    <tipo>Quercus ilex</tipo>
+    <nombre>Encina</nombre>
+    <vegetacion></vegetacion>
+    <altura>En torno a 25 metros</altura>
+    <forma-estructura> Copa esfwrica o eliptica irregular. Tronco principal recto. Ramaje tortuoso</forma-estructura>
+    <color-privamera>lateado en hojas jovenes. En hojas antiguas, haz verde oscuro, enves plateado</color-privamera>
+    <color-otono></color-otono>
+    <resistencia>Heladas fuertes (hasta -15C)</resistencia>
+</arbol>
+
+</Arboles>
