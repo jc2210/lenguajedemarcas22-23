@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ficheros>
+<fichero>
+    <nodo-1>
+        <maquinas-virtuales>
+
+            <sistema-operactivo nombre="">linux</sistema-operactivo>
+            <interfaces-red>
+                <ip>192.228.17.57</ip>
+                <mac> 00:1B:44:11:3A:B7</mac>
+            </interfaces-red>
+        
+        </maquinas-virtuales>
+        <maquinas-virtuales>
+            <sistema-operactivo nombre="">linux</sistema-operactivo>
+            <interfaces-red>
+                <ip>192.228.17.57</ip>
+                <mac> 00:1B:44:11:3A:B7</mac>
+            </interfaces-red>
+
+        </maquinas-virtuales>
+        <maquinas-virtuales>
+            <sistema-operactivo nombre="">linux</sistema-operactivo>
+            <interfaces-red>
+                <ip>192.228.17.57</ip>
+                <mac> 00:1B:44:11:3A:B7</mac>
+            </interfaces-red>
+        
+        </maquinas-virtuales>
+    </nodo-1>
+    <nodo-2>
+        <maquinas-virtuales>
+            <sistema-operactivo nombre="">linux</sistema-operactivo>
+            <interfaces-red>
+                <ip>192.228.17.57</ip>
+                <mac> 00:1B:44:11:3A:B7</mac>
+            </interfaces-red>
+
+        </maquinas-virtuales>
+        <maquinas-virtuales>
+            <sistema-operactivo nombre="">linux</sistema-operactivo>
+            <interfaces-red>
+                <ip>192.228.17.57</ip>
+                <mac> 00:1B:44:11:3A:B7</mac>
+            </interfaces-red>
+
+        </maquinas-virtuales>
+        <maquinas-virtuales>
+            <sistema-operactivo nombre="">linux</sistema-operactivo>
+            <interfaces-red>
+                <ip>192.228.17.57</ip>
+                <mac> 00:1B:44:11:3A:B7</mac>
+            </interfaces-red>
+        
+        </maquinas-virtuales>
+
+    </nodo-2>
+    <nodo-3>
+        <maquinas-virtuales>
+            <sistema-operactivo nombre="">linux</sistema-operactivo>
+            <interfaces-red>
+                <ip>192.228.17.57</ip>
+                <mac> 00:1B:44:11:3A:B7</mac>
+            </interfaces-red>
+
+        </maquinas-virtuales>
+        <maquinas-virtuales>
+            <sistema-operactivo nombre="">linux</sistema-operactivo>
+            <interfaces-red>
+                <ip>192.228.17.57</ip>
+                <mac> 00:1B:44:11:3A:B7</mac>
+            </interfaces-red>
+        
+        </maquinas-virtuales>
+        <maquinas-virtuales>
+            <sistema-operactivo nombre="">linux</sistema-operactivo>
+            <interfaces-red>
+                <ip>192.228.17.57</ip>
+                <mac> 00:1B:44:11:3A:B7</mac>
+            </interfaces-red>
+
+        </maquinas-virtuales>
+    </nodo-3>
+    <nodo-4>
+        <maquinas-virtuales>
+            <sistema-operactivo nombre="">linux</sistema-operactivo>
+            <interfaces-red>
+                <ip>192.228.17.57</ip>
+                <mac> 00:1B:44:11:3A:B7</mac>
+            </interfaces-red>
+
+        </maquinas-virtuales>
+        <maquinas-virtuales>
+            <sistema-operactivo nombre="">linux</sistema-operactivo>
+            <interfaces-red>
+                <ip>192.228.17.57</ip>
+                <mac> 00:1B:44:11:3A:B7</mac>
+            </interfaces-red>
+
+        </maquinas-virtuales>
+        <maquinas-virtuales>
+            <sistema-operactivo nombre="">linux</sistema-operactivo>
+            <interfaces-red>
+                <ip>192.228.17.57</ip>
+                <mac> 00:1B:44:11:3A:B7</mac>
+            </interfaces-red>
+        
+        </maquinas-virtuales>
+    </nodo-4>
+    <nodo-5>
+        <maquinas-virtuales>
+            <sistema-operactivo nombre="">linux</sistema-operactivo>
+            <interfaces-red>
+                <ip>192.228.17.57</ip>
+                <mac> 00:1B:44:11:3A:B7</mac>
+            </interfaces-red>
+        </maquinas-virtuales>  
+        <maquinas-virtuales>
+            <sistema-operactivo nombre="">linux</sistema-operactivo>
+            <interfaces-red>
+                <ip>192.228.17.57</ip>
+                <mac> 00:1B:44:11:3A:B7</mac>
+            </interfaces-red>
+        </maquinas-virtuales>
+        <maquinas-virtuales>
+            <sistema-operactivo nombre="">linux</sistema-operactivo>
+            <interfaces-red>
+                <ip>192.228.17.57</ip>
+                <mac> 00:1B:44:11:3A:B7</mac>
+            </interfaces-red>
+
+     </maquinas-virtuales>
+    </nodo-5>
+
+
+
+</fichero>

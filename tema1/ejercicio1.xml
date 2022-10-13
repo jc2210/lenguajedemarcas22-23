@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Torneodetenis>
+<Torneodetenis>
+    <nombre>Roland Garros</nombre>
+    <fecha-inicio>8-5-22</fecha-inicio>
+    <fecha-final></fecha-final>
+
+    <partido-1>
+        <fecha>8-5-22</fecha>
+        <datos-jugador1>
+            <nombre>nadal</nombre>
+            <dni>123456N</dni>
+            <edad>36</edad>
+        </datos-jugador1>
+        <datos-jugador2>
+            <nombre>paco garcia</nombre>
+            <dni>157389M</dni>
+            <edad>24 anos</edad>
+        </datos-jugador2>
+        <primer-set>6-3</primer-set>
+        <segundo-set>6-2</segundo-set>
+        <tercer-set></tercer-set>
+
+    </partido-1>
+    <partido-2>
+        <fecha>9-5-22</fecha>
+        <datos-jugador-3>
+            <nombre>fernando</nombre>
+            <dni>868032F</dni>
+            <edad>30</edad>
+        </datos-jugador-3>
+        <datos-jugador-4>
+            <nombre>Patrick cuevas</nombre>
+            <dni>098764S</dni>
+            <edad>26 </edad>
+        </datos-jugador-4>
+        <primer-set>6-4</primer-set>
+        <segundo-set>3-6</segundo-set>
+        <tercer-set>7-6</tercer-set>
+
+
+    </partido-2>
+    <partido-3>
+        <fecha>9-5-22</fecha>
+        <datos-jugador-5>
+            <nombre>marco giron</nombre>
+            <dni>234567C</dni>
+            <edad>31</edad>
+        </datos-jugador-5>
+        <datos-jugador-6>
+            <nombre>pedro rodriguez</nombre>
+            <dni>345678D</dni>
+            <edad>28</edad>
+        </datos-jugador-6>
+        <primer-set>4-6</primer-set>
+        <segundo-set>7-6</segundo-set>
+        <tercer-set>6-2</tercer-set>
+
+
+    </partido-3>
+    <partido-4>
+        <fecha>10-5-22</fecha>
+        <datos-jugador-7>
+            <nombre>jose andres</nombre>
+            <dni>102938F</dni>
+            <edad>30</edad>
+        </datos-jugador-7>
+        <datos-jugador-8>
+            <nombre>lucas perez</nombre>
+            <dni>653758J</dni>
+            <edad>21</edad>
+        </datos-jugador-8>
+        <primer-set>6-7</primer-set>
+        <segundo-set>6-2</segundo-set>
+        <tercer-set></tercer-set>
+
+
+    </partido-4>
+    <partido-5>
+        <fecha>10-5-22</fecha>
+        <datos-jugador-9>
+            <nombre>david diaz</nombre>
+            <dni>2343556</dni>
+            <edad>24</edad>
+        </datos-jugador-9>
+        <datos-jugador-10>
+            <nombre>francisco perez</nombre>
+            <dni>243546B</dni>
+            <edad>30</edad>
+        </datos-jugador-10>
+        <primer-set>2-6</primer-set>
+        <segundo-set>6-3</segundo-set>
+        <tercer-set>3-6</tercer-set>
+
+
+    </partido-5>
+    <partido-6>
+        <fecha>11-5-22</fecha>
+        <datos-jugador-11>
+            <nombre>pedro diaz</nombre>
+            <dni>435672K</dni>
+            <edad>29</edad>
+        </datos-jugador-11>
+        <datos-jugador-12>
+            <nombre>alberto</nombre>
+            <dni>098765</dni>
+            <edad>23</edad>
+        </datos-jugador-12>
+        <primer-set>4-6</primer-set>
+        <segundo-set>4-6</segundo-set>
+        <tercer-set></tercer-set>
+
+
+    </partido-6>
+    <partido-7>
+        <fecha>11-5-22</fecha>
+        <datos-jugador-13>
+            <nombre>antonio flores</nombre>
+            <dni>098765T</dni>
+            <edad>25</edad>
+        </datos-jugador-13>
+        <datos-jugador-14>
+            <nombre>javier sanchez</nombre>
+            <dni>456735P</dni>
+            <edad>26</edad>
+        </datos-jugador-14>
+        <primer-set>6-7</primer-set>
+        <segundo-set>3-6</segundo-set>
+        <tercer-set></tercer-set>
+
+
+    </partido-7>
+    <partido-8>
+        <fecha>12-5-22</fecha>
+        <datos-jugador-15>
+            <nombre>rodrigo diaz</nombre>
+            <dni>0976431R</dni>
+            <edad>32</edad>
+        </datos-jugador-15>
+        <datos-jugador-16>
+            <nombre>jesus gil</nombre>
+            <dni>589453D</dni>
+            <edad>34</edad>
+        </datos-jugador-16>
+        <primer-set>2-6</primer-set>
+        <segundo-set>6-0</segundo-set>
+        <tercer-set>6-3</tercer-set>
+
+
+    </partido-8>
+    <partido-semifinal-1>
+        <fecha>13-5-22</fecha>
+        <datos-jugador-1>
+            <nombre>nadal</nombre>
+            <dni>123456N</dni>
+            <edad>36</edad>
+        </datos-jugador-1>
+        <datos-jugador-3>
+            <nombre>fernando</nombre>
+            <dni>868032F</dni>
+            <edad>30</edad>
+        </datos-jugador-3>
+        <primer-set>4-6</primer-set>
+        <segundo-set>6-1</segundo-set>
+        <tercer-set>7-6</tercer-set>
+
+    </partido-semifinal-1>
+    <partido-semifinal-2>
+        <fecha>13-5-22</fecha>
+        <datos-jugador-7>
+            <nombre>jose andres</nombre>
+            <dni>102938F</dni>
+            <edad>30</edad>
+        </datos-jugador-7>
+        <datos-jugador-10>
+            <nombre>francisco perez</nombre>
+            <dni>243546B</dni>
+            <edad>30</edad>
+        </datos-jugador-10>
+        <primer-set>2-6</primer-set>
+        <segundo-set>7-6</segundo-set>
+        <tercer-set>6-4</tercer-set>
+
+    </partido-semifinal-2>
+    <partido-final>
+        <fecha>15-5-22</fecha>
+        <datos-jugador-1>
+            <nombre>nadal</nombre>
+            <dni>123456N</dni>
+            <edad>36</edad>
+        </datos-jugador-1>
+        <datos-jugador-7>
+            <nombre>jose andres</nombre>
+            <dni>102938F</dni>
+            <edad>30</edad>
+        </datos-jugador-7>
+        <primer-set>6-3</primer-set>
+        <segundo-set>4-6</segundo-set>
+        <tercer-set>6-4</tercer-set>
+
+    </partido-final>
+
+    <Ganador>NADAL</Ganador>
+
+
+
+</Torneodetenis>

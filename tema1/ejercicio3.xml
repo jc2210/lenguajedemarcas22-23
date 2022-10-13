@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE fichero-empresa>
+<fichero-empresa>
+    <Empresa nombre="edificio-1" direccion="Direccion: Calle de Velazquez, 80 Madrid">
+        <numerodeplantas nombre="planta-1" cuadrados="5">
+            <empleados nombre="empleado1">
+                <puesto>1</puesto>
+                <datos-personales>
+                    <dni>123456G</dni>
+                    <edad>46</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado2">
+                <puesto>2</puesto>
+                <datos-personales>
+                    <dni>101928L</dni>
+                    <edad>36</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado3">
+                <puesto>3</puesto>
+                <datos-personales>
+                    <dni>192036C</dni>
+                    <edad>28</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado4">
+                <puesto>4</puesto>
+                <datos-personales>
+                    <dni>182345V</dni>
+                    <edad>30</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado5">
+                <puesto>5</puesto>
+                <datos-personales>
+                    <dni>678123T</dni>
+                    <edad>38</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+        </numerodeplantas>
+        <numerodeplantas nombre="planta-2" cuadrados="5">
+                <empleados nombre="empleado1">
+                    <puesto>1</puesto>
+                    <datos-personales>
+                        <dni>123456G</dni>
+                        <edad>46</edad>
+                    </datos-personales>
+                    <extension-telefonica>+34</extension-telefonica>
+                </empleados>
+                <empleados nombre="empleado2">
+                    <puesto>2</puesto>
+                    <datos-personales>
+                        <dni>101928L</dni>
+                        <edad>36</edad>
+                    </datos-personales>
+                    <extension-telefonica>+34</extension-telefonica>
+                </empleados>
+                <empleados nombre="empleado3">
+                    <puesto>3</puesto>
+                    <datos-personales>
+                        <dni>192036C</dni>
+                        <edad>28</edad>
+                    </datos-personales>
+                    <extension-telefonica>+34</extension-telefonica>
+                </empleados>
+                <empleados nombre="empleado4">
+                    <puesto>4</puesto>
+                    <datos-personales>
+                        <dni>182345V</dni>
+                        <edad>30</edad>
+                    </datos-personales>
+                    <extension-telefonica>+34</extension-telefonica>
+                </empleados>
+                <empleados nombre="empleado5">
+                    <puesto>5</puesto>
+                    <datos-personales>
+                        <dni>678123T</dni>
+                        <edad>38</edad>
+                    </datos-personales>
+                    <extension-telefonica>+34</extension-telefonica>
+                </empleados>
+        </numerodeplantas>
+        <numerodeplantas nombre="planta-2" cuadrados="5">
+            <empleados nombre="empleado1">
+                <puesto>1</puesto>
+                <datos-personales>
+                    <dni>123456G</dni>
+                    <edad>46</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado2">
+                <puesto>2</puesto>
+                <datos-personales>
+                    <dni>101928L</dni>
+                    <edad>36</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado3">
+                <puesto>3</puesto>
+                <datos-personales>
+                    <dni>192036C</dni>
+                    <edad>28</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado4">
+                <puesto>4</puesto>
+                <datos-personales>
+                    <dni>182345V</dni>
+                    <edad>30</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado5">
+                <puesto>5</puesto>
+                <datos-personales>
+                    <dni>678123T</dni>
+                    <edad>38</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+    </numerodeplantas>
+    </Empresa>
+    <Empresa nombre="edificio-2" direccion="Direccion: Calle de Velazquez, 80 Madrid">
+        <numerodeplantas nombre="planta-1" cuadrados="5">
+            <empleados nombre="empleado1">
+                <puesto>1</puesto>
+                <datos-personales>
+                    <dni>123456G</dni>
+                    <edad>46</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado2">
+                <puesto>2</puesto>
+                <datos-personales>
+                    <dni>101928L</dni>
+                    <edad>36</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado3">
+                <puesto>3</puesto>
+                <datos-personales>
+                    <dni>192036C</dni>
+                    <edad>28</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado4">
+                <puesto>4</puesto>
+                <datos-personales>
+                    <dni>182345V</dni>
+                    <edad>30</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado5">
+                <puesto>5</puesto>
+                <datos-personales>
+                    <dni>678123T</dni>
+                    <edad>38</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+        </numerodeplantas>
+        <numerodeplantas nombre="planta-2" cuadrados="5">
+                <empleados nombre="empleado1">
+                    <puesto>1</puesto>
+                    <datos-personales>
+                        <dni>123456G</dni>
+                        <edad>46</edad>
+                    </datos-personales>
+                    <extension-telefonica>+34</extension-telefonica>
+                </empleados>
+                <empleados nombre="empleado2">
+                    <puesto>2</puesto>
+                    <datos-personales>
+                        <dni>101928L</dni>
+                        <edad>36</edad>
+                    </datos-personales>
+                    <extension-telefonica>+34</extension-telefonica>
+                </empleados>
+                <empleados nombre="empleado3">
+                    <puesto>3</puesto>
+                    <datos-personales>
+                        <dni>192036C</dni>
+                        <edad>28</edad>
+                    </datos-personales>
+                    <extension-telefonica>+34</extension-telefonica>
+                </empleados>
+                <empleados nombre="empleado4">
+                    <puesto>4</puesto>
+                    <datos-personales>
+                        <dni>182345V</dni>
+                        <edad>30</edad>
+                    </datos-personales>
+                    <extension-telefonica>+34</extension-telefonica>
+                </empleados>
+                <empleados nombre="empleado5">
+                    <puesto>5</puesto>
+                    <datos-personales>
+                        <dni>678123T</dni>
+                        <edad>38</edad>
+                    </datos-personales>
+                    <extension-telefonica>+34</extension-telefonica>
+                </empleados>
+        </numerodeplantas>
+        <numerodeplantas nombre="planta-2" cuadrados="5">
+            <empleados nombre="empleado1">
+                <puesto>1</puesto>
+                <datos-personales>
+                    <dni>123456G</dni>
+                    <edad>46</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado2">
+                <puesto>2</puesto>
+                <datos-personales>
+                    <dni>101928L</dni>
+                    <edad>36</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado3">
+                <puesto>3</puesto>
+                <datos-personales>
+                    <dni>192036C</dni>
+                    <edad>28</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado4">
+                <puesto>4</puesto>
+                <datos-personales>
+                    <dni>182345V</dni>
+                    <edad>30</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado5">
+                <puesto>5</puesto>
+                <datos-personales>
+                    <dni>678123T</dni>
+                    <edad>38</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+    </numerodeplantas>
+    </Empresa>
+    <Empresa nombre="edificio-2" direccion="Direccion: Calle de Velazquez, 80 Madrid">
+        <numerodeplantas nombre="planta-1" cuadrados="5">
+            <empleados nombre="empleado1">
+                <puesto>1</puesto>
+                <datos-personales>
+                    <dni>123456G</dni>
+                    <edad>46</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado2">
+                <puesto>2</puesto>
+                <datos-personales>
+                    <dni>101928L</dni>
+                    <edad>36</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado3">
+                <puesto>3</puesto>
+                <datos-personales>
+                    <dni>192036C</dni>
+                    <edad>28</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado4">
+                <puesto>4</puesto>
+                <datos-personales>
+                    <dni>182345V</dni>
+                    <edad>30</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado5">
+                <puesto>5</puesto>
+                <datos-personales>
+                    <dni>678123T</dni>
+                    <edad>38</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+        </numerodeplantas>
+        <numerodeplantas nombre="planta-3" cuadrados="5">
+                <empleados nombre="empleado1">
+                    <puesto>1</puesto>
+                    <datos-personales>
+                        <dni>123456G</dni>
+                        <edad>46</edad>
+                    </datos-personales>
+                    <extension-telefonica>+34</extension-telefonica>
+                </empleados>
+                <empleados nombre="empleado2">
+                    <puesto>2</puesto>
+                    <datos-personales>
+                        <dni>101928L</dni>
+                        <edad>36</edad>
+                    </datos-personales>
+                    <extension-telefonica>+34</extension-telefonica>
+                </empleados>
+                <empleados nombre="empleado3">
+                    <puesto>3</puesto>
+                    <datos-personales>
+                        <dni>192036C</dni>
+                        <edad>28</edad>
+                    </datos-personales>
+                    <extension-telefonica>+34</extension-telefonica>
+                </empleados>
+                <empleados nombre="empleado4">
+                    <puesto>4</puesto>
+                    <datos-personales>
+                        <dni>182345V</dni>
+                        <edad>30</edad>
+                    </datos-personales>
+                    <extension-telefonica>+34</extension-telefonica>
+                </empleados>
+                <empleados nombre="empleado5">
+                    <puesto>5</puesto>
+                    <datos-personales>
+                        <dni>678123T</dni>
+                        <edad>38</edad>
+                    </datos-personales>
+                    <extension-telefonica>+34</extension-telefonica>
+                </empleados>
+        </numerodeplantas>
+        <numerodeplantas nombre="planta-2" cuadrados="5">
+            <empleados nombre="empleado1">
+                <puesto>1</puesto>
+                <datos-personales>
+                    <dni>123456G</dni>
+                    <edad>46</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado2">
+                <puesto>2</puesto>
+                <datos-personales>
+                    <dni>101928L</dni>
+                    <edad>36</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado3">
+                <puesto>3</puesto>
+                <datos-personales>
+                    <dni>192036C</dni>
+                    <edad>28</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado4">
+                <puesto>4</puesto>
+                <datos-personales>
+                    <dni>182345V</dni>
+                    <edad>30</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+            <empleados nombre="empleado5">
+                <puesto>5</puesto>
+                <datos-personales>
+                    <dni>678123T</dni>
+                    <edad>38</edad>
+                </datos-personales>
+                <extension-telefonica>+34</extension-telefonica>
+            </empleados>
+    </numerodeplantas>
+    </Empresa>
+
+</fichero-empresa>
