@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libro>
+    <libro-catalogo>
+        <título>libro 1</título>
+        <seccion>1</seccion>
+        <subseccion>1.5</subseccion>
+        <contenido>
+            <capitulo tema="cambio-climatico" materia="biologia" xml="si">1</capitulo>
+            <capitulo tema="efectos-climaticos" materia="biologia" xml="si">2</capitulo>
+        </contenido>
+        <copyright>no</copyright>
+    </libro-catalogo>
+    <libro-catalogo>
+        <titulo>libro 2</titulo>
+        <seccion>3</seccion>
+        <subseccion>3.5</subseccion>
+        <contenido>
+            <capitulo>1</capitulo>
+            <capitulo>2</capitulo>
+        </contenido>
+    </libro-catalogo>
+</libro>

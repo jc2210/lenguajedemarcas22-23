@@ -1,0 +1,9 @@
+<!ELEMENT pagina (nombre, email+, parentesco?)>
+<!ELEMENT relacion (persona)*>
+<!ELEMENT relacion (sexo?)>
+<!ATTLIST relacion carnet CDATA #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT parentesco (#PCDATA)>
+<!ATTLIST parentesco tipo CDATA #REQUIRED>
+

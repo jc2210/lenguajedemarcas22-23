@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shiporder>
+    <orderperson>
+    <shipto>
+        <name>JUAN CARLOS</name>
+        <address>escritor</address>
+        <city>sevilla</city>
+        <country>España</country>
+    </shipto>
+    </orderperson>
+    <item>
+        <title>libro</title>
+        <note>28</note>
+        <quantity>50</quantity>
+        <price>100</price>
+    </item>
+    <item>
+        <title>movil</title>
+        <note>1</note>
+        <quantity>2</quantity>
+        <price>1000</price>
+    </item>
+</shiporder>
+  
