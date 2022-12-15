@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=">
+    <title>Reservation Request</title>
+</head>
+<body>
+    <fieldset border="2">
+    <h2 style="text-align:center ;">Reservation request</h2>
+    <fieldset> 
+        <legend>
+            <label style="color: aqua;" for="nombre" style="font-weight:bold; border: 1px solid black">general information</label>
+        </legend>
+        <table>
+            <tr>
+                <td style="text-align: right;">Arrival date:</td>
+                <td><input type="text" name="nombre" size="20" placeholder="dd/mm/aa"></td>
+                <td style="color: red;">Arrival date is invalid</td>
+            </tr>
+            <tr>
+                <td>Night:</td>
+                <td><input type="text" name="nombre" size="20"></td>
+                <td style="color: red;">Night be a number</td>
+            </tr>
+            <tr>
+                <td>Adults:</td>
+                <td>
+                    <select name="provincia">
+                        <option selected>-1-</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Children:</td>
+                <td>
+                    <select name="provincia">
+                        <option selected></option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                    </select>
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+</body>
+<body>
+    <fieldset>
+        <legend>
+            <label style="color: aqua;" for="NOMBRE" style="font-weight:bold; border: 1px solid black">preference</label>
+        </legend>
+        <table>
+            <tr>
+                <td>Room type:
+                    <input type="radio" name="boton" value="1">Standard
+                    <input type="radio" name="boton" value="2">Business
+                    <input type="radio" name="boton" value="3">Suite
+                </td>
+            </tr>
+            <tr>
+                <td>Bed type:
+                    <input type="radio" name="boton" value="1">King
+                    <input type="radio" name="boton" value="2">Double double
+                    <input type="radio" name="boton" value="3">Smoking
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+</body>
+<body>
+    <fieldset>
+        <legend>
+            <label style="color: aqua;" for="NOMBRE" style="font-weight:bold; border: 1px solid black">contact information</label>
+        </legend>
+        <table>
+            <tr>
+                <td style="text-align: right;">Name:</td>
+                <td><input type="text" name="nombre" size="20"></td>
+                <td style="color: red;">Name is required</td>
+            </tr>
+            <tr>
+                <td style="text-align: right;">Email:</td>
+                <td><input type="text" name="nombre" size="20"></td>
+                <td style="color: red;">Email address</td>
+            </tr>
+            <tr>
+                <td style="text-align: right;">Phone:</td>
+                <td><input type="text" name="nombre" size="20"></td>
+                <td style="color: red;">Phone number is invalid</td>
+            </tr>
+        </table>
+    </fieldset>
+    </fieldset>
+</body>
+
+
