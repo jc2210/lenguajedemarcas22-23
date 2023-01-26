@@ -1,0 +1,1 @@
+Los dos primeros parrafos se muestran diferentes a los demás al tener class="verse"

@@ -1,0 +1,6 @@
+
+Vemos que en el css hay un background_color en el body con el colro tan
+En el headers tiene peusto el color maroon y la letra en tamaño 20
+Cada parrafo tiene un tamaño de 12, ademas de un margen en al izquierda de 15px
+Cada parrafo tiene puesto un verse con el color marron
+El link sin entrar en el lo veremso verde y una vez entremos se volvera amarillo, si ponemos el raton enciam se pondrá negro y cuando este activo se pondrá azul.
