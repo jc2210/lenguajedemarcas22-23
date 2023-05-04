@@ -1,0 +1,183 @@
+* {
+    box-sizing: border-box;
+}
+
+.menu{
+    margin: auto auto;
+    display: grid;
+    align-items: center;
+}
+.menu img{
+    width: 60%;
+    height: 60%;
+}
+.menu ul{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+body{
+    background-color: white;
+}
+
+header{
+    display:grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 70px;
+    grid-column: 1 / 2 ;
+    grid-row: 1 / 2;
+    margin: auto;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+
+header img{
+    grid-column: 1 / 2 ;
+    grid-row: 1 / 2;
+    height: 10%;
+    width: 10%;
+    margin-left: 3cm;
+}
+
+main{
+    grid-template-columns: 100%;
+    grid-template-rows: 300px 200px;
+    grid-column: 1 / 2 ;
+    grid-row: 2 / 3;
+    background-color: rgb(44, 46, 51);
+    color: white;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+.developers{
+    grid-column: 1 / 2 ;
+    grid-row: 1 / 2;;
+    text-align: center;
+}
+
+.registro{
+    grid-column: 1 / 2 ;
+    grid-row: 2 / 3;
+    text-align: center;
+}
+
+button{
+    width: 30%;
+    grid-column: 1 / 3 ;
+    grid-row: 12 / 12;
+    background-color: green;
+    color: white;
+}
+
+.github{
+    grid-column: 1 / 2 ;
+    grid-row: 2 / 4;
+    text-align: left;
+}
+
+.imagen{
+    grid-column: 2 / 2 ;
+    grid-row: 2 / 5;
+    text-align: right;  
+}
+
+.textA{
+    text-align: right;
+    grid-column: 3 / 3 ;
+    grid-row: 2 / 2;
+}
+
+.textB{
+    text-align: right;
+}
+
+.textC{
+    text-align: right;
+}
+
+@media screen and (min-width: 576px) {
+    .registro{
+        background-color: white;
+        color: black;
+        height: 300px;
+        width: 90%;
+        text-align: left;
+    }
+   
+    label, input, button, p.form {
+        float: left;
+        width: 95%;
+    }
+}
+  
+@media screen and (min-width: 992px) {
+    header i{
+        display: none;
+    }
+   
+    ul li{
+        display: inline-block;
+        list-style: none;
+    }
+
+    header{
+        align-items: left;
+        grid-template-columns: 10% 90%;
+        grid-template-rows: 130px;
+    }
+    header nav{
+        grid-column: 2 / 3 ;
+        grid-row: 1 / 2;
+        text-align: left;
+        margin-right: 3cm;
+    }
+    main{
+        grid-template-columns: 50% 50%;
+        grid-template-rows: 400px;
+    }
+
+    .developers{
+        grid-column: 2 / 3 ;
+        grid-row: 1 / 2;
+    }
+    .registro{
+        grid-column: 1 / 2 ;
+        grid-row: 1 / 2;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    button{
+        width: 95%;
+        margin-top: 20px;
+    }
+    .imagen{
+        display: grid;
+        align-items: center;
+        justify-items: center;
+        grid-template-columns: 50% 25% 25%;
+        grid-template-rows: 150px 150px;
+        width: 100%;
+        text-align: center;  
+    }
+    .imagen div img{
+        grid-column: 1 / 2 ;
+        grid-row: 1 / 3;
+        width: 100%;
+    }
+    
+    .textA{
+        grid-column: 3 / 3 ;
+        grid-row: 2 / 2;
+    }
+    .textB{
+        grid-column: 4 / 4 ;
+        grid-row: 2 / 2;
+    }
+    .textC{
+        grid-column: 4 / 4 ;
+        grid-row: 2 / 3;
+    }
+}
