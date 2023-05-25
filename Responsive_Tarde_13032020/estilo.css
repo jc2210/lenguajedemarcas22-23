@@ -1,0 +1,177 @@
+*{
+    box-sizing: border-box;
+}
+
+img{
+    width:100px;
+}
+
+header{
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.container{
+    margin: 10px auto;
+}
+
+h2{
+    text-align: center;
+    margin: 0px;
+    padding: 5px;
+}
+
+
+#seccionb{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightgrey;
+    padding: 5px;
+    margin-top:10px;
+}
+
+
+label, input, ul{
+    display: none;
+}
+
+main{
+    background-color: grey;
+    color: white
+}
+
+#secciona{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: grey;   
+}
+
+button{
+    color: white;
+    padding: 10px;
+    border: 1px solid pink;
+    margin: 10px;
+    text-align: center;
+    background-color: pink;
+    border-radius: 6px;
+}
+
+.link{
+    background-color: black;
+    color: white;
+    padding: 10px
+}
+
+.imagen{
+    width: 40%;
+    background-color: white;
+}
+
+
+.fa-heart{
+    color: pink;
+}
+
+@media screen and (min-width: 576px) {
+    #secciona{
+        display: flex;
+        flex-wrap: wrap;
+        background-color: white;
+        width: 40%;
+        margin: auto;
+        padding: 10px;
+    }
+    
+    label,input{
+        display: block;
+        color: black;
+        text-align: start;
+        width: 95%;
+    }
+
+    form{
+        width: 90%;
+        text-align: center;
+    }
+
+    #seccionb{
+        width: 50%;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    #search{
+        display: none;
+    }
+    
+   
+}
+
+@media screen and (min-width: 992px){
+    header{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #search-label{
+        color: white;
+        margin: 0px;
+        width: 20%;
+    }
+
+    #search{
+        width: 40%;
+    }
+
+    .fa-bars{
+        display: none;
+    }
+
+    ul{
+        display: inline-block;
+        list-style: none;
+    }
+
+    ul li{
+        display: inline-block;
+    }
+
+    #menu{
+        display: flex; 
+        width: 70%; 
+    }
+
+    #menu img{
+        width: 15%;
+    }
+    
+    #search{
+        display: flex;
+        width: 30%;  
+    }
+
+    #forma1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #seccionb{
+        background-color: lightgrey;
+        padding: 5px;
+        margin-top:10px;
+        margin: auto;
+    }
+    
+    .imagen{
+        width: 20%;
+        background-color: white;
+        padding: 5px;
+        margin: 5px;
+    }
+    
+
+}
