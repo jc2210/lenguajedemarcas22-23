@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Examen Final Diseño Responsivo</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Para el símbolo para mostrar el menú -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+    <div>
+        <header class="menu">
+            <img  src="img/menu_icon.png" alt="" class="menu_icon">
+            <img  src="img/logo.png" alt="" class="logo">
+            <nav class="text">
+                <ul>
+                    <li class="menu_item">Descripción</li>
+                    <li class="menu_item">Personajes</li>
+                    <li class="menu_item">Escenarios</li>
+                </ul>
+            </nav>            
+        </header>
+        <div class="banner">
+            <img src="img/banner.jpg" alt="">
+        </div>
+        <main class="main">
+            <section class="bowser">
+                <img src="img/bowser.jpeg" alt="">
+                <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur minima laborum molestias sint eius! Quasi sequi facilis praesentium nihil voluptatibus, explicabo, molestiae ullam, cupiditate eligendi quaerat laboriosam sit iure id!
+                </p>
+            </section>
+            <section class="mario">
+                <img src="img/mario.png" alt="">
+                <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur minima laborum molestias sint eius! Quasi sequi facilis praesentium nihil voluptatibus, explicabo, molestiae ullam, cupiditate eligendi quaerat laboriosam sit iure id!
+                </p>
+            </section>
+            <section class="peach">
+                <img src="img/peach.jpg" alt="">
+                <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur minima laborum molestias sint eius! Quasi sequi facilis praesentium nihil voluptatibus, explicabo, molestiae ullam, cupiditate eligendi quaerat laboriosam sit iure id!
+                </p>
+            </section>
+            <section class="luigi">
+                <img src="img/luigi.jpg" alt="">
+                <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur minima laborum molestias sint eius! Quasi sequi facilis praesentium nihil voluptatibus, explicabo, molestiae ullam, cupiditate eligendi quaerat laboriosam sit iure id!
+                </p>
+            </section>
+            <section class="koopa">
+                <img src="img/koopa.png" alt="">
+                <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur minima laborum molestias sint eius! Quasi sequi facilis praesentium nihil voluptatibus, explicabo, molestiae ullam, cupiditate eligendi quaerat laboriosam sit iure id!
+                </p>
+            </section>
+        </main>
+        <footer class="pie-pagina">
+            <address class="lista">
+                <p>Nintendo Ibérica</p>
+                <p>Avda de la Unidad</p>
+                <p>Castilleja de la Cuesta Sevilla</p>
+            </address>
+            <div class="imagenes">
+                <p><img src="img/facebook.png" alt=""></p>
+                <p><img src="img/twitter.png" alt=""></p>
+                <p><img src="img/instagram.png" alt=""></p>
+            </div>
+        </footer>
+    </div>
+    <script>
+        $(function() {
+            //Captura del evento para mostrar u ocultar
+            $(".menu").click(function() {
+            $(".menu_item").toggle();
+            });
+            $(window).resize(function() {
+            var anchura = $(this).width();
+            if (anchura < 576) {
+                $(".menu_item").show();
+            }
+            });
+        });
+    </script>
+</body>
+</html>
